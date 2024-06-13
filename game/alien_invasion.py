@@ -1,6 +1,7 @@
 from score_board import Scoreboard
 import sys
 import pygame
+import pandas
 from time import sleep
 from pygame.constants import FULLSCREEN, K_LEFT
 from pygame.display import set_allow_screensaver
