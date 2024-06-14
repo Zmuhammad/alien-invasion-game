@@ -12,7 +12,7 @@ class Settings:
         
         #alien settings
         
-        self.fleet_drop_speed = 10
+        self.fleet_drop_speed = 11
         
         self.rocket_limits = 3
 
