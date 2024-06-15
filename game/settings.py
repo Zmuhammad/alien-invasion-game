@@ -16,7 +16,7 @@ class Settings:
         
         self.rocket_limits = 3
 
-        self.speedup_scale = 1.1
+        self.speedup_scale = 1.11
 
         self.initialize_daynamic_settings()
 
