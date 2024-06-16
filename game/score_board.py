@@ -9,8 +9,8 @@ class Scoreboard:
         self.settings = ai_game.settings
         self.stats = ai_game.stats
 
-        self.text_color = (170 , 170 , 170)
-        self.font = pygame.font.SysFont(None , 46)
+        self.text_color = (171 , 171 , 171)
+        self.font = pygame.font.SysFont(None , 47)
 
         self.prep_score()
         self.prep_high_score()
