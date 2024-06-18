@@ -1,5 +1,6 @@
 from pygame.constants import SRCCOLORKEY
 import pygame.font
+import pandas
 
 class Scoreboard:
 
