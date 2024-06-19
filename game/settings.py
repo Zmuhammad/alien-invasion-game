@@ -21,7 +21,7 @@ class Settings:
         self.initialize_daynamic_settings()
 
     def initialize_daynamic_settings (self):
-        self.alien_speed = 1
+        self.alien_speed = 0.9
         self.bullet_speed = 3.1
         self.rocket_speed = 1.5
         self.fleet_direction = 1
