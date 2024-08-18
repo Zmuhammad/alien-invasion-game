@@ -7,4 +7,4 @@ we're working on it
 
 3.game alien speed
 
-new game contributed by Rose Noori
+new game is going to be contribute by Rose Noori
