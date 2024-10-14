@@ -5,6 +5,4 @@ we're working on it
 
 2.multirocket
 
-3.game alien speed
-
 new game is going to be contribute by Rose Noori
