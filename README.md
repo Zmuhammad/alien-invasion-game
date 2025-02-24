@@ -5,4 +5,4 @@ we're working on it
 
 2.multirocket
 
-new game is going to be contribute by Rose Nori
+new game is going to be contribute by Rose Noriii
