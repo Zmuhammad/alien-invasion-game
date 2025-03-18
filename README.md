@@ -5,4 +5,4 @@ new attribute gonna add by     ...
 
 2.multirocket
 
-new game is going to be contribute by Rose Noriii
+new game is going to be contribute by Rose Nori
