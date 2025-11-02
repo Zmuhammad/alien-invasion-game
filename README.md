@@ -1,8 +1,8 @@
 # alien-invasion-game
-new attribute gonna add by     ...
+## new attribute gonna add     
 
-1.musics
+### 1.musics
 
-2.multirocket
+### 2.multirocket
 
-new game is going to be contribute by Rose Nori
+### new game is going to be contribute
